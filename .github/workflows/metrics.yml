@@ -38,7 +38,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, jupyter notebook
           plugin_languages_limit: 16
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
