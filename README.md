@@ -59,6 +59,8 @@ A: As long as I am using it, aka **L**ife-**t**ime **S**upport
 * [jsdelivr-github-purge](https://github.com/JeffersonQin/jsdelivr-github-purge): A script that purges the jsdelivr cdn of github repo
 * [dandanplay_toolchain](https://github.com/JeffersonQin/dandanplay_toolchain): Some useful scripts for DanDanPlay
 * [JeffersonQin.github.io](https://JeffersonQin.github.io): Personal Blog: gyrojeff.moe
+* [qts-hybird-backup-sync-clean-addition](https://github.com/JeffersonQin/qts-hybird-backup-sync-clean-addition): QTS Hybird Backup Sync cache cleaning tool
+* [windows-config-script](https://github.com/JeffersonQin/windows-config-script): Useful scripts for backing up files and reinstalling apps
 
 <div align="center">
   <a href="https://gyrojeff.top"><img src="https://github.com/JeffersonQin/JeffersonQin/blob/main/github-metrics.svg"></a>
