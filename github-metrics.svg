@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3247 Commits
+                            3248 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -215,7 +215,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    1.32k views in last two weeks
+                                    1.39k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -339,14 +339,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.54798436344055" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="156.54798436344055" y="0" width="111.44260612242218" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="267.99059048586275" y="0" width="99.45273136373386" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="367.4433218495966" y="0" width="41.902137988697206" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="409.3454598382938" y="0" width="19.84871234771646" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="429.1941721860103" y="0" width="12.441942925682566" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="441.63611511169285" y="0" width="11.23902879981089" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="452.8751439115037" y="0" width="7.124856088496272" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="156.71924766371495" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="156.71924766371495" y="0" width="111.37970975814638" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="268.09895742186137" y="0" width="99.3966018865283" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="367.49555930838966" y="0" width="41.878489114836725" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="409.3740484232264" y="0" width="19.83751006265094" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="429.2115584858773" y="0" width="12.434920898813482" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="441.6464793846908" y="0" width="11.232685677785167" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="452.879165062476" y="0" width="7.120834937524063" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -358,8 +358,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>621 kB</div>
-                                <div>34.03%</div>
+                                <div>622 kB</div>
+                                <div>34.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -371,7 +371,7 @@
                             </div>
                             <small>
                                 <div>395 kB</div>
-                                <div>21.62%</div>
+                                <div>21.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -409,7 +409,7 @@
                             </div>
                             <small>
                                 <div>442 kB</div>
-                                <div>24.23%</div>
+                                <div>24.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -421,7 +421,7 @@
                             </div>
                             <small>
                                 <div>166 kB</div>
-                                <div>9.11%</div>
+                                <div>9.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1770,6 +1770,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JeffersonQin/yolo-v2-pytorch</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#967bbcb</div>
+                                        <div class="message">feat: add nms</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">JeffersonQin/yolo-v2-pytorch</span>
                                     </div>
@@ -1875,26 +1895,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JeffersonQin/yolo-v2-pytorch</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#516ad6e</div>
-                                        <div class="message">doc: add README</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1969,7 +1969,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2022, 13:05:31 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 8 May 2022, 14:07:54 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
