@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1899" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1999" class="">
     <defs>
         <style/>
     </defs>
@@ -37,18 +37,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3316 Commits
+                            3325 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -215,7 +215,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2k views in last two weeks
+                                    1.98k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -339,14 +339,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.40064255085326" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="168.40064255085326" y="0" width="107.08972312999035" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="275.49036568084364" y="0" width="95.56816586435447" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="371.0585315451981" y="0" width="40.2654649949127" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="411.3239965401108" y="0" width="19.073433256476118" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="430.39742979658695" y="0" width="11.955967914522859" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="442.35339771110984" y="0" width="10.800038910608137" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="453.15343662171796" y="0" width="6.846563378282097" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="169.72746230282524" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="169.72746230282524" y="0" width="106.60244921716335" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="276.3299115199886" y="0" width="95.13331672326652" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="371.4632282432552" y="0" width="40.082251236333335" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="411.5454794795885" y="0" width="18.986646343761382" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="430.53212582334993" y="0" width="11.901566510755368" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="442.4336923341053" y="0" width="10.750897152978716" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="453.184589487084" y="0" width="6.815410512916071" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -358,8 +358,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>696 kB</div>
-                                <div>36.61%</div>
+                                <div>704 kB</div>
+                                <div>36.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -371,7 +371,7 @@
                             </div>
                             <small>
                                 <div>395 kB</div>
-                                <div>20.78%</div>
+                                <div>20.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -383,7 +383,7 @@
                             </div>
                             <small>
                                 <div>78.8 kB</div>
-                                <div>4.15%</div>
+                                <div>4.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -395,7 +395,7 @@
                             </div>
                             <small>
                                 <div>44.6 kB</div>
-                                <div>2.35%</div>
+                                <div>2.34%</div>
                             </small>
                         </div>
                     </section>
@@ -409,7 +409,7 @@
                             </div>
                             <small>
                                 <div>442 kB</div>
-                                <div>23.28%</div>
+                                <div>23.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -421,7 +421,7 @@
                             </div>
                             <small>
                                 <div>166 kB</div>
-                                <div>8.75%</div>
+                                <div>8.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -433,7 +433,7 @@
                             </div>
                             <small>
                                 <div>49.4 kB</div>
-                                <div>2.6%</div>
+                                <div>2.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -445,7 +445,7 @@
                             </div>
                             <small>
                                 <div>28.3 kB</div>
-                                <div>1.49%</div>
+                                <div>1.48%</div>
                             </small>
                         </div>
                     </section>
@@ -547,7 +547,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 62 commits)</small>
+                    <small class="h-details">(computed from last 61 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1759,6 +1759,58 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">JeffersonQin/dsp-analysis</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b11b68a</div>
+                                        <div class="message">feat: update gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#671ed4b</div>
+                                        <div class="message">feat: add data pipeline</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#345bc22</div>
+                                        <div class="message">feat: add `train/val` division</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4d5f50</div>
+                                        <div class="message">fix: `CrossEntropyLoss` params and model save path</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#513db0d</div>
+                                        <div class="message">fix: indent</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b8ecc3</div>
+                                        <div class="message">fix: model output channel count</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dabf82b</div>
+                                        <div class="message">feat: add trainer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dffee73</div>
+                                        <div class="message">feat: update gitignore</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc8a9b8</div>
+                                        <div class="message">fix: change default path</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 5 commits in
                                         <span class="repo">JeffersonQin/dsp-analysis</span>
                                     </div>
@@ -1848,34 +1900,6 @@ feat: add clipper and update dataset</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">JeffersonQin/dsp-analysis</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c205f6</div>
-                                        <div class="message">feat: add resnet18 backbone classifier</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46efe1e</div>
-                                        <div class="message">feat: add utils</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4eb6245</div>
-                                        <div class="message">feat: update gitignore</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1950,7 +1974,7 @@ feat: add clipper and update dataset</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2022, 18:02:46 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 21 May 2022, 19:02:05 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
