@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2023" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1707" class="">
     <defs>
         <style/>
     </defs>
@@ -1625,6 +1625,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JeffersonQin/BaiduTongjiData</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7253bbe</div>
+                                        <div class="message">Wed Nov 15 19:40:06 CST 2023</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">JeffersonQin/AdaBFT</span>
                                     </div>
@@ -1714,102 +1734,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 261 commits in
-                                        <span class="repo">JeffersonQin/AdaBFT</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eac4384</div>
-                                        <div class="message">fix: yaml format</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8a58c18</div>
-                                        <div class="message">fix: analyze script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be0584c</div>
-                                        <div class="message">fix: tar unzip</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bdb46a</div>
-                                        <div class="message">feat: add dns refresh script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a39e36c</div>
-                                        <div class="message">feat: add analysis script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3869bed</div>
-                                        <div class="message">feat: add grid search</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#70fa4c4</div>
-                                        <div class="message">fix: path</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b8de84</div>
-                                        <div class="message">feat: add packing feature</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7701856</div>
-                                        <div class="message">fix: add delay</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2a9a86</div>
-                                        <div class="message">feat: add running scripts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a921eff</div>
-                                        <div class="message">feat: add java config script</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f40a401</div>
-                                        <div class="message">feat: add deployment scripts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5460320</div>
-                                        <div class="message">fix: update gist link</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#639e7d9</div>
-                                        <div class="message">deploy: update deploy command</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3acf502</div>
-                                        <div class="message">doc: add README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33c186d</div>
-                                        <div class="message">fix: remove debugging outputs and redundant import</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c69a0f</div>
-                                        <div class="message">deps: update jdk19 to jdk20</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76218f3</div>
-                                        <div class="message">feat: implement multiple configs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a6125a8</div>
-                                        <div class="message">Merge branch 'read-only'</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d8c8be</div>
-                                        <div class="message">fix: fix typo in workload generation `contention level`</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1884,7 +1808,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2023, 19:01:58 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 20:09:57 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
