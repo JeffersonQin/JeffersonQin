@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    17.3m added, 2.05m removed
+                                    1.80m added, 617k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    2.70k views in last two weeks
+                                    2.67k views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -333,14 +333,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.137646424984" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="174.137646424984" y="0" width="120.65275039189783" height="8" fill="#d0b68c"/>
-                    <rect mask="url(#languages-bar)" x="294.7903968168818" y="0" width="68.07901620499126" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="362.86941302187313" y="0" width="32.921961399590366" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="395.79137442146344" y="0" width="23.44918512603242" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="419.2405595474959" y="0" width="15.24468113332288" height="8" fill="#b2b7f8"/>
-                    <rect mask="url(#languages-bar)" x="434.4852406808188" y="0" width="13.088872393512002" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="447.5741130743308" y="0" width="12.425886925669245" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.50606319966505" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="174.50606319966505" y="0" width="120.90801108979021" height="8" fill="#d0b68c"/>
+                    <rect mask="url(#languages-bar)" x="295.41407428945524" y="0" width="68.22304853854244" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="363.63712282799764" y="0" width="32.99161321287725" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="396.62873604087486" y="0" width="23.49879572621216" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="420.1275317670871" y="0" width="15.276933758585038" height="8" fill="#b2b7f8"/>
+                    <rect mask="url(#languages-bar)" x="435.4044655256721" y="0" width="13.116564051521785" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="448.5210295771939" y="0" width="11.478970422806112" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -353,7 +353,7 @@
                             </div>
                             <small>
                                 <div>5.55 MB</div>
-                                <div>37.86%</div>
+                                <div>37.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -365,7 +365,7 @@
                             </div>
                             <small>
                                 <div>2.17 MB</div>
-                                <div>14.8%</div>
+                                <div>14.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -377,7 +377,7 @@
                             </div>
                             <small>
                                 <div>747 kB</div>
-                                <div>5.1%</div>
+                                <div>5.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -403,7 +403,7 @@
                             </div>
                             <small>
                                 <div>3.85 MB</div>
-                                <div>26.23%</div>
+                                <div>26.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -415,7 +415,7 @@
                             </div>
                             <small>
                                 <div>1.05 MB</div>
-                                <div>7.16%</div>
+                                <div>7.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -427,7 +427,7 @@
                             </div>
                             <small>
                                 <div>485 kB</div>
-                                <div>3.31%</div>
+                                <div>3.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -438,8 +438,8 @@
                                 C
                             </div>
                             <small>
-                                <div>396 kB</div>
-                                <div>2.7%</div>
+                                <div>365 kB</div>
+                                <div>2.5%</div>
                             </small>
                         </div>
                     </section>
@@ -1713,6 +1713,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">JeffersonQin/BaiduTongjiData</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cce0b47</div>
+                                        <div class="message">Sat Apr 20 19:36:02 CST 2024</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">JeffersonQin/MashiroVQGAN</span>
                                     </div>
@@ -1805,26 +1825,6 @@ fix: add num_worker option</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JeffersonQin/MashiroVQGAN</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#54e07dc</div>
-                                        <div class="message">fix: pad should be -100 (masked, ignored)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1899,7 +1899,7 @@ fix: add num_worker option</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Apr 2024, 19:01:47 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Apr 2024, 20:09:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
