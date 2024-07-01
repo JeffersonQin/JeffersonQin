@@ -11,6 +11,8 @@
 <a href="https://orcid.org/0009-0003-2460-1409"><img src="https://img.shields.io/badge/ORCID-a5cd39?style=flat-square&logo=orcid&logoColor=ffffff" alt="ORCID"></a>
 <a href="https://scholar.google.com/citations?user=OuneFS8AAAAJ&hl=zh-CN&oi=sra"><img src="https://img.shields.io/badge/Haoyun%20Qin-3f84f4?style=flat-square&logo=googlescholar&logoColor=ffffff" alt="Google Scholar"></a>
 <a href="https://dblp.org/pid/371/5967.html"><img src="https://img.shields.io/badge/Haoyun%20Qin-ffc200?style=flat-square&logo=dblp&logoColor=ffffff" alt="DBLP"></a>
+<img src="https://img.shields.io/badge/gyrojeff-5561f5?style=flat-square&logo=discord&logoColor=ffffff" alt="Discord">
+<a href="https://github.com/JeffersonQin"><img src="https://img.shields.io/badge/JeffersonQin-black?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"></a>
 
 * 🌐 中文 · English · 日本語
 * ⏰ 10:00 - 26:00 「[UTC-4](https://time.is/UTC-4)」
