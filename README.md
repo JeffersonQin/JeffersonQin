@@ -1,15 +1,20 @@
 # Hi There! 👋
 
-<div align="center">
-	<a href="mailto:qhy.cis@gmail.com"><img src="https://img.shields.io/badge/Mail-c14438.svg?&style=flat&logo=gmail&logoColor=white" alt="Mail"></a>
-	<a href="https://pypi.org/user/JeffersonQin/"><img src="https://img.shields.io/badge/PyPI-JeffersonQin-3775a9.svg?&style=flat&logo=pypi&logoColor=white" alt="PyPI"></a>
-	<a href="https://twitter.com/gyro_jeff"><img src="https://img.shields.io/badge/Twitter-gyro__jeff-1ca0f1.svg?&style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-	<img src="https://img.shields.io/badge/Wechat-gyrojeff-07C160.svg?&style=flat&logo=wechat&logoColor=white" alt="Wechat">
-	<a href="https://stackoverflow.com/users/16571228/haoyun-qin"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
-</div>
+<a href="mailto:qhy.cis@gmail.com"><img src="https://img.shields.io/badge/Mail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Mail"></a>
+<a href="https://pypi.org/user/JeffersonQin/"><img src="https://img.shields.io/badge/JeffersonQin-3775a9.svg?&style=flat-square&logo=pypi&logoColor=white" alt="PyPI"></a>
+<a href="https://twitter.com/gyro_jeff"><img src="https://img.shields.io/badge/gyro__jeff-black.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
+<img src="https://img.shields.io/badge/gyrojeff-07C160.svg?&style=flat-square&logo=wechat&logoColor=white" alt="Wechat">
+<a href="https://stackoverflow.com/users/16571228/haoyun-qin"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
+<a href="https://t.me/gyrojeff"><img src="https://img.shields.io/badge/gyrojeff-26a5e4?style=flat-square&logo=telegram&logoColor=ffffff" alt="Telegram"></a>
+<a href="https://osu.ppy.sh/users/13284309"><img src="https://img.shields.io/badge/Jefferson%20Qin-ea6ca5?style=flat-square&logo=osu&logoColor=ffffff" alt="osu!"></a>
+<a href="https://huggingface.co/gyrojeff"><img src="https://img.shields.io/badge/🤗gyrojeff-ffcc1c?style=flat-square" alt="Huggingface"></a>
+<a href="https://orcid.org/0009-0003-2460-1409"><img src="https://img.shields.io/badge/ORCID-a5cd39?style=flat-square&logo=orcid&logoColor=ffffff" alt="ORCID"></a>
+<a href="https://scholar.google.com/citations?user=OuneFS8AAAAJ&hl=zh-CN&oi=sra"><img src="https://img.shields.io/badge/Haoyun%20Qin-3f84f4?style=flat-square&logo=googlescholar&logoColor=ffffff" alt="Google Scholar"></a>
+<a href="https://dblp.org/pid/371/5967.html"><img src="https://img.shields.io/badge/Haoyun%20Qin-ffc200?style=flat-square&logo=dblp&logoColor=ffffff" alt="DBLP"></a>
 
 * 🌐 中文 · English · 日本語
 * ⏰ 10:00 - 26:00 「[UTC-4](https://time.is/UTC-4)」
+* 🎓 Academic: [haoyunqin.com](https://haoyunqin.com)
 * 🔗 Blog: [gyrojeff.top](https://gyrojeff.top)
 
 <!--<div align="center">
