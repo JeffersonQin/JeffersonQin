@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/gyrojeff-5561f5?style=flat-square&logo=discord&logoColor=ffffff" alt="Discord">
 <a href="https://github.com/JeffersonQin"><img src="https://img.shields.io/badge/JeffersonQin-black?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/haoyun-qin"><img src="https://img.shields.io/badge/Haoyun%20Qin-0a66c2?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"></a>
+<a href="https://music.163.com/#/user/home?id=530055252"><img src="https://img.shields.io/badge/gyro%E6%B0%B8%E4%B8%8D%E6%8A%BD%E9%A3%8E-fc3d49?style=flat-square&logo=neteasecloudmusic&logoColor=ffffff" alt="网易云音乐"></a>
 
 * 🌐 中文 · English · 日本語
 * ⏰ 10:00 - 26:00 「[UTC-4](https://time.is/UTC-4)」
