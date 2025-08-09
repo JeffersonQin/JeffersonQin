@@ -17,7 +17,7 @@
 <a href="https://music.163.com/#/user/home?id=530055252"><img src="https://img.shields.io/badge/gyro%E6%B0%B8%E4%B8%8D%E6%8A%BD%E9%A3%8E-fc3d49?style=flat-square&logo=neteasecloudmusic&logoColor=ffffff" alt="网易云音乐"></a>
 
 * 🌐 中文 · English · 日本語
-* ⏰ 10:00 - 26:00 「[UTC-4](https://time.is/UTC-4)」
+* ⏰ 10:00 - 26:00 「[UTC+9](https://time.is/UTC+9)」
 * 🎓 Academic: [haoyunqin.com](https://haoyunqin.com)
 * 🔗 Blog: [gyrojeff.top](https://gyrojeff.top)
 
